@@ -1,7 +1,7 @@
 // author : Abhishek Mane
 
 /*
-    People in a queue for movie using async/await
+    People in a queue for movie using async/await : Using Promise.all()
 */
 
 const getTicket = new Promise((resolve, reject) => {
