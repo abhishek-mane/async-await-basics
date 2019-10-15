@@ -1,0 +1,12 @@
+
+
+- async function always returns a Promise object, in other words, 
+  whether you return from a async function is wrapped inside a Promise
+
+- await keyword is used againsts a Promise. for example, 
+    await myPromise;
+  what it does it, waits for a promise to either resolve/reject
+
+- await keyword can only be written inside an async function
+
+- 
